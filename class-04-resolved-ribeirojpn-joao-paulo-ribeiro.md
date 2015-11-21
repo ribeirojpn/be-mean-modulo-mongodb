@@ -626,4 +626,5 @@ autor: João Paulo Ribeiro
 ## Esse item não está no vídeo e se você fizer significa que você lê as coisas, nesse exercício demonstre qual a diferença entre os operadores $ne e $not.
 
   `$ne` seleciona os documentos onde o valor do campo passado não é igual ao valor passado. Não aceita RegEx.
+  
   `$not` seleciona todos os documentos que vão de encontro ao criterio passado. Aceita RegEx.
